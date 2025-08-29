@@ -1,0 +1,7 @@
+name: MenuAPI
+main: me.botxy2z.api.ExamplePlugin
+version: 1.0
+commands:
+  example:
+    description: Example
+    usage: /example
